@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/door-classifier-fastai/static/css/main.75477e4f.css",
+    "main.js": "/door-classifier-fastai/static/js/main.529df999.js",
+    "static/js/787.9749d72e.chunk.js": "/door-classifier-fastai/static/js/787.9749d72e.chunk.js",
+    "static/media/green.jpg": "/door-classifier-fastai/static/media/green.d04c8be339842950d2cf.jpg",
+    "static/media/old.jpg": "/door-classifier-fastai/static/media/old.1ad13ffb13c853de5299.jpg",
+    "static/media/blue.jpg": "/door-classifier-fastai/static/media/blue.6d94d14c7444366ae08a.jpg",
+    "static/media/red_arch.jpg": "/door-classifier-fastai/static/media/red_arch.e1a4c36ee419e303b298.jpg",
+    "static/media/inside.jpg": "/door-classifier-fastai/static/media/inside.49bdded08c148563e698.jpg",
+    "static/media/crack_1.jpg": "/door-classifier-fastai/static/media/crack_1.a54d0b1578830a030aa1.jpg",
+    "static/media/opening_door.jpg": "/door-classifier-fastai/static/media/opening_door.71872b8934cb0225d551.jpg",
+    "static/media/red.jpg": "/door-classifier-fastai/static/media/red.b1ef6892e6ba444707d1.jpg",
+    "index.html": "/door-classifier-fastai/index.html",
+    "main.75477e4f.css.map": "/door-classifier-fastai/static/css/main.75477e4f.css.map",
+    "main.529df999.js.map": "/door-classifier-fastai/static/js/main.529df999.js.map",
+    "787.9749d72e.chunk.js.map": "/door-classifier-fastai/static/js/787.9749d72e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75477e4f.css",
+    "static/js/main.529df999.js"
+  ]
+}
