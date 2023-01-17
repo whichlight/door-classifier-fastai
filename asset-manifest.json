@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/door-classifier-fastai/static/css/main.75477e4f.css",
-    "main.js": "/door-classifier-fastai/static/js/main.529df999.js",
+    "main.js": "/door-classifier-fastai/static/js/main.671f86ec.js",
     "static/js/787.9749d72e.chunk.js": "/door-classifier-fastai/static/js/787.9749d72e.chunk.js",
     "static/media/green.jpg": "/door-classifier-fastai/static/media/green.d04c8be339842950d2cf.jpg",
     "static/media/old.jpg": "/door-classifier-fastai/static/media/old.1ad13ffb13c853de5299.jpg",
@@ -13,11 +13,11 @@
     "static/media/red.jpg": "/door-classifier-fastai/static/media/red.b1ef6892e6ba444707d1.jpg",
     "index.html": "/door-classifier-fastai/index.html",
     "main.75477e4f.css.map": "/door-classifier-fastai/static/css/main.75477e4f.css.map",
-    "main.529df999.js.map": "/door-classifier-fastai/static/js/main.529df999.js.map",
+    "main.671f86ec.js.map": "/door-classifier-fastai/static/js/main.671f86ec.js.map",
     "787.9749d72e.chunk.js.map": "/door-classifier-fastai/static/js/787.9749d72e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75477e4f.css",
-    "static/js/main.529df999.js"
+    "static/js/main.671f86ec.js"
   ]
 }
