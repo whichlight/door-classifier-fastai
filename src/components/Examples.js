@@ -6,6 +6,7 @@ export default function Examples(props) {
     "blue.jpg",
     "closed-door.jpg",
     "open-door.jpg",
+    "opening_door.jpg",
     "crack_1.jpg",
     "green.jpg",
     "inside.jpg",
